@@ -11,7 +11,9 @@
 
 \maketitle
 
-\section{expression for a=D'B'(C'A+CA')}
+\section{Question}
+Boolean function with expression for a=D'B'(C'A+CA')
+
 
 \begin{karnaugh-map}[4][4][1][][]
     \maxterms{0,1,3,4,5,6,7,9,10,11,12,13,14,15}
